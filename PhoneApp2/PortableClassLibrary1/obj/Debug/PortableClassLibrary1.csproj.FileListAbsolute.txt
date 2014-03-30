@@ -1,0 +1,4 @@
+H:\Study\Myself Projects\Windows Phone\Examples\Test\PhoneApp2\PortableClassLibrary1\bin\Debug\PortableClassLibrary1.dll
+H:\Study\Myself Projects\Windows Phone\Examples\Test\PhoneApp2\PortableClassLibrary1\bin\Debug\PortableClassLibrary1.pdb
+H:\Study\Myself Projects\Windows Phone\Examples\Test\PhoneApp2\PortableClassLibrary1\obj\Debug\PortableClassLibrary1.dll
+H:\Study\Myself Projects\Windows Phone\Examples\Test\PhoneApp2\PortableClassLibrary1\obj\Debug\PortableClassLibrary1.pdb
