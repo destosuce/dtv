@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="GetGlueEngine.FlexibleWebAuth"
+    x:Name="fAuth"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#CA000000" PointerPressed="Cancelled">
+        <Grid Margin="0,100,0,100" Background="White" PointerPressed="Cancelled">
+            <ProgressBar x:Name="pbLoading" Margin="0" IsIndeterminate="True" VerticalAlignment="Stretch"/>
+            <WebView HorizontalAlignment="Center" Width="500" VerticalAlignment="Stretch" x:Name="wv" />
+        </Grid>
+    </Grid>
+</Page>

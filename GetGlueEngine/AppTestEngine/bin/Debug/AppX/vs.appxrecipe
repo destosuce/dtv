@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NGUYENDUCCANG</Machine>
+    <WindowsUser>desto_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E0E54A191E409C066B8086C94926EC0551D5AE2C287C7AC43705396D821A9909</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>830592f8-31c1-4ba8-a528-652e1d7db9ff_1.0.0.0_neutral__t8ehtqazp726g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>830592f8-31c1-4ba8-a528-652e1d7db9ff_t8ehtqazp726g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>830592f8-31c1-4ba8-a528-652e1d7db9ff</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=desto_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-01T13:10:21.611</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\bin\Debug\AppTestEngine.exe">
+      <PackagePath>AppTestEngine.exe</PackagePath>
+      <Modified>2014-04-01T13:14:59.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\bin\Debug\AppTestEngine.pdb">
+      <PackagePath>AppTestEngine.pdb</PackagePath>
+      <Modified>2014-04-01T13:14:59.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T13:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-04-01T13:09:56.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T09:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-04-01T13:13:33.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Study\Myself Projects\Windows Phone\Examples\Test\GetGlueEngine\AppTestEngine\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-01T13:10:17.399</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
